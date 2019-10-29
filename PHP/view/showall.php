@@ -10,12 +10,6 @@ foreach ($data as $row) {
 echo $row['username']." " .$row['email']." ".$row['password']." "."<br>";
 }
 
-/*
-while ($row = $stmt->fetch())
-{
-echo $row['username']." " .$row['email']." ".$row['password']." "."<br>";
-}
-*/
 }
 else {
   echo "database error";
