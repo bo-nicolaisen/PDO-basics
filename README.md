@@ -1,2 +1,2 @@
 # PDO-basics
-opgave til PDO basics
+opgave filer til PDO basics
